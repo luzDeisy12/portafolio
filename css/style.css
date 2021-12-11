@@ -1,0 +1,24 @@
+*{ 
+	box-sizing:border-box;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #dac292;
+
+}
+.espacio{
+	height: 3em;
+}
+.pie{
+	text-align: center;
+	color:  black;
+	background-color:#c4b7a6;
+	height: 10em;
+	padding: 2em;
+}
+@media only screen and (min-width: 600px) {
+  body {
+    background-color:#c4b7a6;
+  }
+}
